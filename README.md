@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajiv3012/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/Rajiv3012/LeetCode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,9 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Rajiv3012/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Rajiv3012/LeetCode/tree/master/0231-power-of-two) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rajiv3012/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
