@@ -5,7 +5,7 @@ class Solution {
             if(s.charAt(i)=='(' || s.charAt(i)=='{'|| s.charAt(i)=='['){
                 st.push(s.charAt(i));
             }
-            else{
+            else{                                 //optimal , bruteforce down
                 if(st.isEmpty()){
                     return false;
                 }
@@ -20,15 +20,6 @@ class Solution {
         return(st.isEmpty());
     }
 }
-
-
-
-
-
-
-
-
-
 // class Solution {
 //     public boolean isValid(String s) {
 //         Stack<Character> stack1 = new Stack<>(); // brute force
