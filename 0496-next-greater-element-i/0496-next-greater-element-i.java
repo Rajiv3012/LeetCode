@@ -15,7 +15,7 @@ class Solution {
             }
 
             // find next greater element
-            ans[i] = -1;
+            ans[i]=-1;
             for (int k = index + 1; k < nums2.length; k++) {
                 if (nums2[k] > target) {
                     ans[i] = nums2[k];
