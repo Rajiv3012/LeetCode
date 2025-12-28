@@ -42,6 +42,7 @@
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/Rajiv3012/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
