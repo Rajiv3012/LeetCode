@@ -1,7 +1,7 @@
 class Solution {
     public int trap(int[] height) {
         int n = height.length;
-        int [] prefixsum = new int[n];
+        int [] prefixsum = new int[n];   
         int [] suffixsum = new int[n];
         int sum=0;
         prefixsum[0]=height[0];
