@@ -18,6 +18,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rajiv3012/LeetCode/tree/master/0061-rotate-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0904-fruit-into-baskets](https://github.com/Rajiv3012/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rajiv3012/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rajiv3012/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rajiv3012/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -175,4 +177,8 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rajiv3012/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
