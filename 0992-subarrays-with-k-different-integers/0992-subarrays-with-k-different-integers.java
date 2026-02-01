@@ -2,9 +2,9 @@ class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
         return atmost(nums,k) - atmost(nums,k-1);
     }
-    private int atmost(int [] nums, int k){
+    private int atmost(int nums[],int k){
+        int n = nums.length;
         int left=0;
-        int n=nums.length;
         int count=0;
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int r=0;r<n;r++){
