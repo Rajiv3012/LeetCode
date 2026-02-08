@@ -1,16 +1,17 @@
-import java.util.*;
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>(); // value -> index
+        HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
+            // If complement found, return indices
             if (map.containsKey(complement)) {
-                // Found the answer
                 return new int[] { map.get(complement), i };
             }
+            // Store current element and index
             map.put(nums[i], i);
         }
-        return new int[] {}; // should never reach here, as exactly one solution exists
+        // No pair found
+        return new int[] { -1, -1 };
+
     }
 }
