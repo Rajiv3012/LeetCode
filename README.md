@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rajiv3012/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Rajiv3012/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Rajiv3012/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Rajiv3012/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajiv3012/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -41,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Rajiv3012/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rajiv3012/LeetCode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -51,6 +53,7 @@
 | [0045-jump-game-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajiv3012/LeetCode/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/Rajiv3012/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Rajiv3012/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Rajiv3012/LeetCode/tree/master/0455-assign-cookies) |
