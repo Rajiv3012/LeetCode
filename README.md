@@ -60,6 +60,7 @@
 | [0136-single-number](https://github.com/Rajiv3012/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Rajiv3012/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Rajiv3012/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Rajiv3012/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -163,6 +164,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rajiv3012/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajiv3012/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Rajiv3012/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -216,6 +219,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rajiv3012/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv3012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/0713-subarray-product-less-than-k) |
