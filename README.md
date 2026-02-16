@@ -59,6 +59,7 @@
 | [0055-jump-game](https://github.com/Rajiv3012/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rajiv3012/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Rajiv3012/LeetCode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajiv3012/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Rajiv3012/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Rajiv3012/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajiv3012/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajiv3012/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Rajiv3012/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Rajiv3012/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rajiv3012/LeetCode/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rajiv3012/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
