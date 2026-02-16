@@ -1,6 +1,5 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
         HashMap<Integer,Integer> map = new HashMap<>();
         int n = nums.length;
         int res = nums[0];
