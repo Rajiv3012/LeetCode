@@ -143,6 +143,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rajiv3012/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv3012/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rajiv3012/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Matrix
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rajiv3012/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv3012/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rajiv3012/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Heap (Priority Queue)
 |  |
@@ -248,6 +251,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Rajiv3012/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rajiv3012/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
 | ------- |
