@@ -18,3 +18,20 @@ class Solution {
         return maxarea;
     }
 }
+//bruteforce
+
+// class Solution {
+//     public int maxArea(int[] height) {
+//         int n=height.length;
+//         int maxarea=0;
+//         for(int i=0;i<n;i++){
+//             for(int j=i+1;j<n;j++){
+//                 int width=j-i;
+//                 int ht = Math.min(height[i],height[j]);
+//                 int area = width*ht;
+//                 maxarea=Math.max(maxarea,area);
+//             }
+//         }
+//         return maxarea;
+//     }
+// }
