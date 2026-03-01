@@ -47,6 +47,7 @@
 | [0191-number-of-1-bits](https://github.com/Rajiv3012/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rajiv3012/LeetCode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rajiv3012/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv3012/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rajiv3012/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Rajiv3012/LeetCode/tree/master/0561-array-partition) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
