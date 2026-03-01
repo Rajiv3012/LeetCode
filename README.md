@@ -155,6 +155,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rajiv3012/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv3012/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rajiv3012/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Hash Table
 |  |
@@ -226,6 +227,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Rajiv3012/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Rajiv3012/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rajiv3012/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sliding Window
 |  |
 | ------- |
