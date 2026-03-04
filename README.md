@@ -111,6 +111,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rajiv3012/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -224,6 +225,7 @@
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
