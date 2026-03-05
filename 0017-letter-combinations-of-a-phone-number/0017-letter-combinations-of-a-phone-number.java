@@ -1,7 +1,6 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
         List<String> ans = new ArrayList<>();
-        if(digits.length()==0)return ans;
         String [] map = {" "," ","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         gen(0,digits,new StringBuilder(),map,ans);
         return ans;
@@ -12,6 +11,11 @@ class Solution {
             return;
         }
         String letters = Map[digits.charAt(ind)-'0'];
+        if(letters.length() == 0){
+        gen(ind + 1, digits, curr, Map, ans);
+        return;
+        }
+
         for(char c: letters.toCharArray()){
             curr.append(c);
             gen(ind+1,digits,curr,Map,ans);
