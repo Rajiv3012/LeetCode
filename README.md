@@ -172,6 +172,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv3012/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rajiv3012/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
