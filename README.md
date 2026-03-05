@@ -153,6 +153,7 @@
 | [0155-min-stack](https://github.com/Rajiv3012/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rajiv3012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajiv3012/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Rajiv3012/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0901-online-stock-span](https://github.com/Rajiv3012/LeetCode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Rajiv3012/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Queue
@@ -170,6 +171,7 @@
 | [0022-generate-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/Rajiv3012/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajiv3012/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Rajiv3012/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0678-valid-parenthesis-string](https://github.com/Rajiv3012/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0981-time-based-key-value-store](https://github.com/Rajiv3012/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -194,6 +196,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajiv3012/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rajiv3012/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Rajiv3012/LeetCode/tree/master/0525-contiguous-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Rajiv3012/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv3012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rajiv3012/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -369,4 +372,8 @@
 | [0090-subsets-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Rajiv3012/LeetCode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Rajiv3012/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
