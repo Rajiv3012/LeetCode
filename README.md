@@ -62,6 +62,7 @@
 | [0877-stone-game](https://github.com/Rajiv3012/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajiv3012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2652-sum-multiples](https://github.com/Rajiv3012/LeetCode/tree/master/2652-sum-multiples) |
 ## Array
 |  |
 | ------- |
