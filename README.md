@@ -80,6 +80,7 @@
 | [0057-insert-interval](https://github.com/Rajiv3012/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Rajiv3012/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rajiv3012/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0090-subsets-ii) |
@@ -173,6 +174,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajiv3012/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Rajiv3012/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Rajiv3012/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajiv3012/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -249,6 +251,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -360,6 +363,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -385,6 +389,7 @@
 | [0039-combination-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rajiv3012/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rajiv3012/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rajiv3012/LeetCode/tree/master/0216-combination-sum-iii) |
