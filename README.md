@@ -62,6 +62,7 @@
 | [0877-stone-game](https://github.com/Rajiv3012/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajiv3012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/Rajiv3012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rajiv3012/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Rajiv3012/LeetCode/tree/master/2652-sum-multiples) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rajiv3012/LeetCode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1688-count-of-matches-in-tournament](https://github.com/Rajiv3012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Greedy
 |  |
