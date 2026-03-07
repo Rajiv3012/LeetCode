@@ -21,6 +21,7 @@ class Solution {
             if(board[row][col] == 'Q') return false;
             row++; col--;
         }
+        row = duprow; col = dupcol;
         return true;
     }
 
