@@ -76,6 +76,7 @@
 | [0040-combination-sum-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Rajiv3012/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Rajiv3012/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rajiv3012/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Rajiv3012/LeetCode/tree/master/0075-sort-colors) |
@@ -388,6 +389,7 @@
 | [0022-generate-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Rajiv3012/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rajiv3012/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0090-subsets-ii) |
