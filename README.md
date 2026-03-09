@@ -41,6 +41,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Rajiv3012/LeetCode/tree/master/0191-number-of-1-bits) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rajiv3012/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -199,6 +201,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rajiv3012/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2942-find-words-containing-character](https://github.com/Rajiv3012/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -329,6 +332,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Rajiv3012/LeetCode/tree/master/0506-relative-ranks) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -366,6 +370,7 @@
 | [0905-sort-array-by-parity](https://github.com/Rajiv3012/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting
 |  |
@@ -430,4 +435,8 @@
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Rajiv3012/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
