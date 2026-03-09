@@ -198,6 +198,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Rajiv3012/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3110-score-of-a-string](https://github.com/Rajiv3012/LeetCode/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajiv3012/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajiv3012/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
