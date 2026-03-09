@@ -127,6 +127,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rajiv3012/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -194,6 +195,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rajiv3012/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Rajiv3012/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -271,6 +273,7 @@
 | [0735-asteroid-collision](https://github.com/Rajiv3012/LeetCode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rajiv3012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Greedy
