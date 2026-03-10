@@ -138,6 +138,7 @@
 | [2942-find-words-containing-character](https://github.com/Rajiv3012/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3668-restore-finishing-order](https://github.com/Rajiv3012/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Rajiv3012/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Enumeration
 |  |
@@ -291,6 +292,7 @@
 | [1929-concatenation-of-array](https://github.com/Rajiv3012/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3701-compute-alternating-sum](https://github.com/Rajiv3012/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Greedy
 |  |
