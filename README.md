@@ -67,6 +67,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajiv3012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rajiv3012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2427-number-of-common-factors](https://github.com/Rajiv3012/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Rajiv3012/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rajiv3012/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -147,11 +148,13 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Rajiv3012/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Rajiv3012/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Rajiv3012/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Stack
 |  |
 | ------- |
