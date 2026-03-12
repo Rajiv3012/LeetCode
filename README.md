@@ -142,6 +142,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2942-find-words-containing-character](https://github.com/Rajiv3012/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -293,6 +294,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Simulation
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Counting
 |  |
 | ------- |
