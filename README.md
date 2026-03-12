@@ -36,6 +36,7 @@
 | [0881-boats-to-save-people](https://github.com/Rajiv3012/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rajiv3012/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rajiv3012/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rajiv3012/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajiv3012/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -326,6 +328,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rajiv3012/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rajiv3012/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rajiv3012/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Rajiv3012/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Sliding Window
 |  |
@@ -395,6 +398,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rajiv3012/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Counting
 |  |
