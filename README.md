@@ -76,6 +76,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/Rajiv3012/LeetCode/tree/master/2652-sum-multiples) |
 | [3227-vowels-game-in-a-string](https://github.com/Rajiv3012/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Array
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Rajiv3012/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Rajiv3012/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3668-restore-finishing-order](https://github.com/Rajiv3012/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Rajiv3012/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -290,6 +292,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Rajiv3012/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rajiv3012/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -331,6 +334,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rajiv3012/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Rajiv3012/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rajiv3012/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
@@ -359,6 +363,7 @@
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Rajiv3012/LeetCode/tree/master/0506-relative-ranks) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
