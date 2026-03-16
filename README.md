@@ -70,6 +70,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajiv3012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rajiv3012/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rajiv3012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Rajiv3012/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2427-number-of-common-factors](https://github.com/Rajiv3012/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Rajiv3012/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
