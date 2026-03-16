@@ -52,6 +52,7 @@
 | [0191-number-of-1-bits](https://github.com/Rajiv3012/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rajiv3012/LeetCode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Rajiv3012/LeetCode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Rajiv3012/LeetCode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Rajiv3012/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajiv3012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rajiv3012/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -115,6 +116,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv3012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rajiv3012/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajiv3012/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Rajiv3012/LeetCode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rajiv3012/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Rajiv3012/LeetCode/tree/master/0735-asteroid-collision) |
@@ -252,6 +254,7 @@
 | [0525-contiguous-array](https://github.com/Rajiv3012/LeetCode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Rajiv3012/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv3012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Rajiv3012/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Rajiv3012/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Rajiv3012/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -406,6 +409,7 @@
 | [0455-assign-cookies](https://github.com/Rajiv3012/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Rajiv3012/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Rajiv3012/LeetCode/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Rajiv3012/LeetCode/tree/master/0645-set-mismatch) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0881-boats-to-save-people](https://github.com/Rajiv3012/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Rajiv3012/LeetCode/tree/master/0905-sort-array-by-parity) |
