@@ -47,6 +47,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rajiv3012/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Rajiv3012/LeetCode/tree/master/0136-single-number) |
@@ -61,6 +62,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rajiv3012/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Rajiv3012/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
@@ -217,6 +219,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajiv3012/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Rajiv3012/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Rajiv3012/LeetCode/tree/master/0402-remove-k-digits) |
@@ -329,6 +332,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Rajiv3012/LeetCode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rajiv3012/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
