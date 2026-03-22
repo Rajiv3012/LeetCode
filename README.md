@@ -151,6 +151,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rajiv3012/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Rajiv3012/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rajiv3012/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/Rajiv3012/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rajiv3012/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -332,6 +333,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rajiv3012/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rajiv3012/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rajiv3012/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
