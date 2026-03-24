@@ -31,6 +31,7 @@
 | [0141-linked-list-cycle](https://github.com/Rajiv3012/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Rajiv3012/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Rajiv3012/LeetCode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajiv3012/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Rajiv3012/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -236,6 +237,7 @@
 | [0402-remove-k-digits](https://github.com/Rajiv3012/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajiv3012/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Rajiv3012/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0541-reverse-string-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Rajiv3012/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Rajiv3012/LeetCode/tree/master/0771-jewels-and-stones) |
