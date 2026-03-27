@@ -62,6 +62,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajiv3012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rajiv3012/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Rajiv3012/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rajiv3012/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-vowels-game-in-a-string](https://github.com/Rajiv3012/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Rajiv3012/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajiv3012/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
