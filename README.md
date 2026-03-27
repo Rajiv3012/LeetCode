@@ -84,6 +84,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rajiv3012/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/Rajiv3012/LeetCode/tree/master/2652-sum-multiples) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rajiv3012/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-vowels-game-in-a-string](https://github.com/Rajiv3012/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajiv3012/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -169,6 +170,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Rajiv3012/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/Rajiv3012/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rajiv3012/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -347,6 +349,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rajiv3012/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2906-construct-product-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rajiv3012/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rajiv3012/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rajiv3012/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -362,6 +365,7 @@
 | [1929-concatenation-of-array](https://github.com/Rajiv3012/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rajiv3012/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3701-compute-alternating-sum](https://github.com/Rajiv3012/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Greedy
