@@ -287,6 +287,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Rajiv3012/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajiv3012/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2810-faulty-keyboard](https://github.com/Rajiv3012/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Rajiv3012/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -405,6 +406,7 @@
 | [1920-build-array-from-permutation](https://github.com/Rajiv3012/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rajiv3012/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Rajiv3012/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2751-robot-collisions](https://github.com/Rajiv3012/LeetCode/tree/master/2751-robot-collisions) |
 | [2810-faulty-keyboard](https://github.com/Rajiv3012/LeetCode/tree/master/2810-faulty-keyboard) |
