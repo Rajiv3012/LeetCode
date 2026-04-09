@@ -327,6 +327,7 @@
 | [0904-fruit-into-baskets](https://github.com/Rajiv3012/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/Rajiv3012/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rajiv3012/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv3012/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -525,6 +526,7 @@
 | [0905-sort-array-by-parity](https://github.com/Rajiv3012/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Rajiv3012/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rajiv3012/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rajiv3012/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -572,6 +574,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rajiv3012/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -587,6 +590,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rajiv3012/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -597,6 +601,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -614,6 +619,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rajiv3012/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
