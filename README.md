@@ -209,6 +209,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Rajiv3012/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/Rajiv3012/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Rajiv3012/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rajiv3012/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Enumeration
 |  |
@@ -340,6 +341,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajiv3012/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Rajiv3012/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/Rajiv3012/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rajiv3012/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajiv3012/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Monotonic Stack
 |  |
