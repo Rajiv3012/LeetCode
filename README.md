@@ -295,6 +295,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rajiv3012/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rajiv3012/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajiv3012/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2810-faulty-keyboard](https://github.com/Rajiv3012/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Rajiv3012/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -476,6 +477,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rajiv3012/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rajiv3012/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/Rajiv3012/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv3012/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
