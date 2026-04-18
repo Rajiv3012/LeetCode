@@ -105,6 +105,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Rajiv3012/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajiv3012/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Rajiv3012/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
