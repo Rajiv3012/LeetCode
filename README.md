@@ -196,6 +196,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Rajiv3012/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajiv3012/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajiv3012/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/Rajiv3012/LeetCode/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Rajiv3012/LeetCode/tree/master/2751-robot-collisions) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rajiv3012/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -349,6 +350,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv3012/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Rajiv3012/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2615-sum-of-distances](https://github.com/Rajiv3012/LeetCode/tree/master/2615-sum-of-distances) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajiv3012/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Rajiv3012/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/Rajiv3012/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -525,6 +527,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajiv3012/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/Rajiv3012/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rajiv3012/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
