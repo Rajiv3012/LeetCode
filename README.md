@@ -186,6 +186,7 @@
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/Rajiv3012/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2401-longest-nice-subarray](https://github.com/Rajiv3012/LeetCode/tree/master/2401-longest-nice-subarray) |
@@ -412,6 +413,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rajiv3012/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rajiv3012/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1992-find-all-groups-of-farmland](https://github.com/Rajiv3012/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajiv3012/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -618,6 +620,7 @@
 | [0563-binary-tree-tilt](https://github.com/Rajiv3012/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1992-find-all-groups-of-farmland](https://github.com/Rajiv3012/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -630,6 +633,7 @@
 | [0200-number-of-islands](https://github.com/Rajiv3012/LeetCode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1992-find-all-groups-of-farmland](https://github.com/Rajiv3012/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 ## Binary Tree
 |  |
 | ------- |
