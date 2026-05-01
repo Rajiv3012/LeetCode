@@ -178,6 +178,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rajiv3012/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Rajiv3012/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rajiv3012/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rajiv3012/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Rajiv3012/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -420,6 +421,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Rajiv3012/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rajiv3012/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rajiv3012/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
