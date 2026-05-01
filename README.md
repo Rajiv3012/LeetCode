@@ -313,6 +313,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rajiv3012/LeetCode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rajiv3012/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Rajiv3012/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2278-percentage-of-letter-in-string](https://github.com/Rajiv3012/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rajiv3012/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv3012/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajiv3012/LeetCode/tree/master/2573-find-the-string-with-lcp) |
