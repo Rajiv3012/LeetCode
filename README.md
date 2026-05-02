@@ -89,6 +89,7 @@
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rajiv3012/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Rajiv3012/LeetCode/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/Rajiv3012/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Rajiv3012/LeetCode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajiv3012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -393,6 +394,7 @@
 | [0131-palindrome-partitioning](https://github.com/Rajiv3012/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Rajiv3012/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Rajiv3012/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0788-rotated-digits](https://github.com/Rajiv3012/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Rajiv3012/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rajiv3012/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
