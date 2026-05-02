@@ -1,0 +1,24 @@
+class Solution {
+    public int rotatedDigits(int n) {
+        int count=0;
+        for(int num=1;num<=n;num++){
+            int x=num;
+            boolean valid = true;
+            boolean changed = false;
+            while(x>0){
+                int digit = x%10;
+                if(digit==3 || digit==4 || digit==7){
+                    valid = false;
+                }
+                if(digit==2 || digit==5 || digit==6 || digit==9){
+                    changed= true;
+                }
+                x/=10;
+            }
+            if(valid==true && changed==true){
+                count++;
+            }
+        }
+        return count;
+    }
+}
