@@ -196,6 +196,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rajiv3012/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Rajiv3012/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2401-longest-nice-subarray](https://github.com/Rajiv3012/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rajiv3012/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv3012/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -367,6 +368,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rajiv3012/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Rajiv3012/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv3012/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rajiv3012/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Rajiv3012/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -583,6 +585,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rajiv3012/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rajiv3012/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv3012/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/Rajiv3012/LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -596,6 +599,7 @@
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rajiv3012/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Rajiv3012/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/Rajiv3012/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajiv3012/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Rajiv3012/LeetCode/tree/master/3713-longest-balanced-substring-i) |
