@@ -82,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rajiv3012/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Rajiv3012/LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rajiv3012/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -119,6 +120,7 @@
 | [0040-combination-sum-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Rajiv3012/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rajiv3012/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Rajiv3012/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rajiv3012/LeetCode/tree/master/0057-insert-interval) |
@@ -426,6 +428,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rajiv3012/LeetCode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rajiv3012/LeetCode/tree/master/0200-number-of-islands) |
 | [0661-image-smoother](https://github.com/Rajiv3012/LeetCode/tree/master/0661-image-smoother) |
