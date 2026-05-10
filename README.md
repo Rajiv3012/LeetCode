@@ -218,6 +218,7 @@
 | [2615-sum-of-distances](https://github.com/Rajiv3012/LeetCode/tree/master/2615-sum-of-distances) |
 | [2706-buy-two-chocolates](https://github.com/Rajiv3012/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2751-robot-collisions](https://github.com/Rajiv3012/LeetCode/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rajiv3012/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rajiv3012/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/Rajiv3012/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -422,6 +423,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Rajiv3012/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajiv3012/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Rajiv3012/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/Rajiv3012/LeetCode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rajiv3012/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Rajiv3012/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
