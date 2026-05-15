@@ -136,6 +136,7 @@
 | [0135-candy](https://github.com/Rajiv3012/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Rajiv3012/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajiv3012/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Rajiv3012/LeetCode/tree/master/0200-number-of-islands) |
@@ -435,6 +436,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0981-time-based-key-value-store](https://github.com/Rajiv3012/LeetCode/tree/master/0981-time-based-key-value-store) |
