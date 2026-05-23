@@ -155,6 +155,7 @@
 | [0503-next-greater-element-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Rajiv3012/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Rajiv3012/LeetCode/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv3012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rajiv3012/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajiv3012/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -428,6 +429,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rajiv3012/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Rajiv3012/LeetCode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Rajiv3012/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Rajiv3012/LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Rajiv3012/LeetCode/tree/master/0877-stone-game) |
@@ -459,6 +461,7 @@
 | [0048-rotate-image](https://github.com/Rajiv3012/LeetCode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rajiv3012/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Rajiv3012/LeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Rajiv3012/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Rajiv3012/LeetCode/tree/master/0994-rotting-oranges) |
@@ -701,6 +704,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Rajiv3012/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Rajiv3012/LeetCode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
