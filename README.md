@@ -195,6 +195,7 @@
 | [1672-richest-customer-wealth](https://github.com/Rajiv3012/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rajiv3012/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rajiv3012/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajiv3012/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rajiv3012/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Rajiv3012/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1861-rotating-the-box](https://github.com/Rajiv3012/LeetCode/tree/master/1861-rotating-the-box) |
