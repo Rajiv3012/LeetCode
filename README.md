@@ -182,6 +182,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Rajiv3012/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Rajiv3012/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rajiv3012/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Rajiv3012/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajiv3012/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rajiv3012/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -467,6 +468,7 @@
 | [0661-image-smoother](https://github.com/Rajiv3012/LeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Rajiv3012/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Rajiv3012/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Rajiv3012/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -658,6 +660,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rajiv3012/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Rajiv3012/LeetCode/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/Rajiv3012/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajiv3012/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rajiv3012/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
@@ -696,6 +699,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Rajiv3012/LeetCode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Rajiv3012/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1992-find-all-groups-of-farmland](https://github.com/Rajiv3012/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
@@ -712,6 +716,7 @@
 | [0733-flood-fill](https://github.com/Rajiv3012/LeetCode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Rajiv3012/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Rajiv3012/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Rajiv3012/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Rajiv3012/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rajiv3012/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
