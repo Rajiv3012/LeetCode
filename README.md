@@ -85,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Rajiv3012/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rajiv3012/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Rajiv3012/LeetCode/tree/master/0089-gray-code) |
