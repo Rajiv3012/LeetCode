@@ -238,6 +238,7 @@
 | [2942-find-words-containing-character](https://github.com/Rajiv3012/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rajiv3012/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rajiv3012/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Rajiv3012/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -407,6 +408,7 @@
 | [2615-sum-of-distances](https://github.com/Rajiv3012/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Rajiv3012/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rajiv3012/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rajiv3012/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rajiv3012/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajiv3012/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -656,6 +658,7 @@
 | [2085-count-common-words-with-one-occurrence](https://github.com/Rajiv3012/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/Rajiv3012/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Rajiv3012/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajiv3012/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Rajiv3012/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Memoization
