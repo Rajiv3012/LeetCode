@@ -112,6 +112,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Rajiv3012/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-vowels-game-in-a-string](https://github.com/Rajiv3012/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rajiv3012/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Rajiv3012/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rajiv3012/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajiv3012/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -241,6 +242,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajiv3012/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rajiv3012/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Rajiv3012/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rajiv3012/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rajiv3012/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
