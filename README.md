@@ -117,6 +117,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rajiv3012/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajiv3012/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rajiv3012/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rajiv3012/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rajiv3012/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 | Problem Name | Difficulty |
