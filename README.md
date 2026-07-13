@@ -174,6 +174,7 @@
 | [0733-flood-fill](https://github.com/Rajiv3012/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Rajiv3012/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rajiv3012/LeetCode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Rajiv3012/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0853-car-fleet](https://github.com/Rajiv3012/LeetCode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Rajiv3012/LeetCode/tree/master/0860-lemonade-change) |
@@ -339,6 +340,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rajiv3012/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Rajiv3012/LeetCode/tree/master/0709-to-lower-case) |
+| [0752-open-the-lock](https://github.com/Rajiv3012/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Rajiv3012/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Rajiv3012/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Rajiv3012/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -398,6 +400,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/Rajiv3012/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv3012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rajiv3012/LeetCode/tree/master/0645-set-mismatch) |
+| [0752-open-the-lock](https://github.com/Rajiv3012/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Rajiv3012/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0874-walking-robot-simulation](https://github.com/Rajiv3012/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Rajiv3012/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -747,6 +750,7 @@
 | [0542-01-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Rajiv3012/LeetCode/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Rajiv3012/LeetCode/tree/main/0752-open-the-lock/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Rajiv3012/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rajiv3012/LeetCode/tree/master/1020-number-of-enclaves) |
