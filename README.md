@@ -269,6 +269,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Rajiv3012/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Rajiv3012/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Rajiv3012/LeetCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rajiv3012/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
