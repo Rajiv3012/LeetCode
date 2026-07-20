@@ -4,8 +4,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rajiv3012/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Rajiv3012/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajiv3012/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -17,8 +17,8 @@
 | [0206-reverse-linked-list](https://github.com/Rajiv3012/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajiv3012/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rajiv3012/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajiv3012/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Rajiv3012/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -26,8 +26,8 @@
 | [0509-fibonacci-number](https://github.com/Rajiv3012/LeetCode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Rajiv3012/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rajiv3012/LeetCode/tree/master/0061-rotate-list) |
@@ -55,16 +55,16 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Rajiv3012/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rajiv3012/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rajiv3012/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Rajiv3012/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Rajiv3012/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rajiv3012/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Rajiv3012/LeetCode/tree/master/0089-gray-code) |
@@ -84,8 +84,8 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Rajiv3012/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0009-palindrome-number](https://github.com/Rajiv3012/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Rajiv3012/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
@@ -121,8 +121,8 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rajiv3012/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rajiv3012/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rajiv3012/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0039-combination-sum) |
@@ -266,8 +266,8 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rajiv3012/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Rajiv3012/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2427-number-of-common-factors](https://github.com/Rajiv3012/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -275,14 +275,14 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Rajiv3012/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Rajiv3012/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/Rajiv3012/LeetCode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Rajiv3012/LeetCode/tree/master/2427-number-of-common-factors) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rajiv3012/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rajiv3012/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -306,8 +306,8 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2751-robot-collisions](https://github.com/Rajiv3012/LeetCode/tree/master/2751-robot-collisions) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/Rajiv3012/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rajiv3012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajiv3012/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -315,14 +315,14 @@
 | [0901-online-stock-span](https://github.com/Rajiv3012/LeetCode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Rajiv3012/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rajiv3012/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajiv3012/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajiv3012/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajiv3012/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0020-valid-parentheses) |
@@ -384,8 +384,8 @@
 | [3713-longest-balanced-substring-i](https://github.com/Rajiv3012/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajiv3012/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajiv3012/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajiv3012/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -434,8 +434,8 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rajiv3012/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajiv3012/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Rajiv3012/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rajiv3012/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -447,8 +447,8 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Rajiv3012/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0045-jump-game-ii) |
@@ -471,8 +471,8 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Rajiv3012/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Rajiv3012/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajiv3012/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -486,8 +486,8 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rajiv3012/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Rajiv3012/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Rajiv3012/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rajiv3012/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
@@ -521,8 +521,8 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rajiv3012/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Rajiv3012/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Rajiv3012/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Rajiv3012/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Rajiv3012/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -545,8 +545,8 @@
 | [3701-compute-alternating-sum](https://github.com/Rajiv3012/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/Rajiv3012/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajiv3012/LeetCode/tree/master/0055-jump-game) |
@@ -576,8 +576,8 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rajiv3012/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rajiv3012/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajiv3012/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -601,8 +601,8 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv3012/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Rajiv3012/LeetCode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rajiv3012/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Rajiv3012/LeetCode/tree/master/0506-relative-ranks) |
@@ -610,16 +610,16 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Rajiv3012/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/Rajiv3012/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0901-online-stock-span](https://github.com/Rajiv3012/LeetCode/tree/master/0901-online-stock-span) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Rajiv3012/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv3012/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -640,8 +640,8 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rajiv3012/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Rajiv3012/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/Rajiv3012/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
@@ -676,8 +676,8 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Rajiv3012/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Rajiv3012/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rajiv3012/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Rajiv3012/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -687,21 +687,21 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajiv3012/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/Rajiv3012/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/Rajiv3012/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rajiv3012/LeetCode/tree/master/0509-fibonacci-number) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rajiv3012/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Rajiv3012/LeetCode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Rajiv3012/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2573-find-the-string-with-lcp](https://github.com/Rajiv3012/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rajiv3012/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rajiv3012/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajiv3012/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -718,8 +718,8 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0079-word-search](https://github.com/Rajiv3012/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rajiv3012/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0100-same-tree) |
@@ -738,8 +738,8 @@
 | [1020-number-of-enclaves](https://github.com/Rajiv3012/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1992-find-all-groups-of-farmland](https://github.com/Rajiv3012/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajiv3012/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rajiv3012/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -759,8 +759,8 @@
 | [1992-find-all-groups-of-farmland](https://github.com/Rajiv3012/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rajiv3012/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rajiv3012/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajiv3012/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -777,18 +777,18 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0877-stone-game](https://github.com/Rajiv3012/LeetCode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rajiv3012/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3227-vowels-game-in-a-string](https://github.com/Rajiv3012/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0561-array-partition](https://github.com/Rajiv3012/LeetCode/tree/master/0561-array-partition) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajiv3012/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0039-combination-sum) |
@@ -804,35 +804,35 @@
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rajiv3012/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Rajiv3012/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Rajiv3012/LeetCode/tree/master/3227-vowels-game-in-a-string) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rajiv3012/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Rajiv3012/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rajiv3012/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rajiv3012/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv3012/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
