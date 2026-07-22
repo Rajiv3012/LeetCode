@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajiv3012/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Rajiv3012/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rajiv3012/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Rajiv3012/LeetCode/tree/master/0075-sort-colors) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rajiv3012/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Rajiv3012/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Rajiv3012/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
