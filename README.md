@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rajiv3012/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Rajiv3012/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Rajiv3012/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Rajiv3012/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -135,6 +136,7 @@
 | [0045-jump-game-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rajiv3012/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Rajiv3012/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Rajiv3012/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rajiv3012/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/Rajiv3012/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rajiv3012/LeetCode/tree/master/0057-insert-interval) |
@@ -456,6 +458,7 @@
 | [0022-generate-parentheses](https://github.com/Rajiv3012/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajiv3012/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajiv3012/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Rajiv3012/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rajiv3012/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rajiv3012/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajiv3012/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
