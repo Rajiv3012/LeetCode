@@ -207,6 +207,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rajiv3012/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Rajiv3012/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajiv3012/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/Rajiv3012/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rajiv3012/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rajiv3012/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -418,6 +419,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Rajiv3012/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajiv3012/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv3012/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajiv3012/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Rajiv3012/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rajiv3012/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -667,6 +669,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Rajiv3012/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rajiv3012/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rajiv3012/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajiv3012/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Rajiv3012/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rajiv3012/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rajiv3012/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
