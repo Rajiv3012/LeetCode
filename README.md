@@ -82,6 +82,7 @@
 | [0645-set-mismatch](https://github.com/Rajiv3012/LeetCode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Rajiv3012/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rajiv3012/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Rajiv3012/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Rajiv3012/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2401-longest-nice-subarray](https://github.com/Rajiv3012/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -231,6 +232,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Rajiv3012/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Rajiv3012/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rajiv3012/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Rajiv3012/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2401-longest-nice-subarray](https://github.com/Rajiv3012/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rajiv3012/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -424,6 +426,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rajiv3012/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Rajiv3012/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Rajiv3012/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Rajiv3012/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv3012/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Rajiv3012/LeetCode/tree/master/2540-minimum-common-value) |
@@ -692,6 +695,7 @@
 | [0169-majority-element](https://github.com/Rajiv3012/LeetCode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rajiv3012/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Rajiv3012/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Rajiv3012/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Rajiv3012/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2833-furthest-point-from-origin](https://github.com/Rajiv3012/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajiv3012/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
