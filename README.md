@@ -126,6 +126,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rajiv3012/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rajiv3012/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rajiv3012/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rajiv3012/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rajiv3012/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rajiv3012/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajiv3012/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rajiv3012/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
